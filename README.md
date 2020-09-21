@@ -5,6 +5,6 @@
 This Repository contains all my Machine Learning Projects.
 
 ## Dataset
-The Dataset was taken from Kaggle: [Kaggle] (https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/version/1)
+The Dataset was taken from Kaggle: https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/version/1
 
 
