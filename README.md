@@ -6,6 +6,7 @@ This Repository contains all my Machine Learning Projects.
 
 ## Projects
 1. Flight Fare Prediction
+2. House Price Prediction
 
 
 
